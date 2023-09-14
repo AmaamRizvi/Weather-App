@@ -110,6 +110,9 @@ const WeatherApp = () => {
             </div>
           </div>
         </div>
+        <footer>
+            <h4>Made by Amaan Rizvi</h4>
+        </footer>
       </div>
     </div>
   );

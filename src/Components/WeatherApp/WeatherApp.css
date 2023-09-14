@@ -104,3 +104,10 @@ h1 {
 .icon{
     margin-top: 4px;
 }
+
+h4{
+    font-family: Palatino, serif;
+    font-size: 13px;
+    margin-top: 60px;
+    color: white;
+}
